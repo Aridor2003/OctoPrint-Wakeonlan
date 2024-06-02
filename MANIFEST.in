@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_wakeonlan/templates *
+recursive-include octoprint_wakeonlan/translations *
+recursive-include octoprint_wakeonlan/static *
