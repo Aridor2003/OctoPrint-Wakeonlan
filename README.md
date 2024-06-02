@@ -15,7 +15,7 @@ Prerequisites
 OctoPrint instance up and running.
 Networked device(s) with Wake-on-LAN capability enabled.
 Installation Steps
-Download the Plugin: Download the plugin package (wake_on_lan.zip).
+Download the Plugin: Download the plugin package (OctoPrint-Wakeonlan.zip).
 
 Upload Plugin via OctoPrint Web Interface:
 
