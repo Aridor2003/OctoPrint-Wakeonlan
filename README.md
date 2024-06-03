@@ -58,4 +58,4 @@ License
 This project is licensed under the AGPL3 commercial use License. See the LICENSE file for details.
 
 Acknowledgments
-This project was done with tremendous help from (itay zelikovich](https://github.com/zelikit) and [jneilliii](https://github.com/jneilliii).
+This project was done with tremendous help from [itay zelikovich](https://github.com/zelikit) and [jneilliii](https://github.com/jneilliii).
