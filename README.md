@@ -3,10 +3,10 @@
 An OctoPrint PlugIn letting you turn on your computer from anywhere using a raspberry pi.
 To use the PlugIn just download the zip and install using the plugin Manager and input your Mac address in the settings
 
-Overview
+Overview:
 The OctoPrint Wake-on-LAN (WoL) Plugin adds the capability to send Wake-on-LAN packets to designated devices directly from the OctoPrint interface. This is useful for waking up networked devices such as printers or computers before starting a print job.
 
-Features
+Features:
 Send Wake-on-LAN packets with a click of a button.
 Configure MAC addresses for target devices.
 Easy-to-use interface integrated into OctoPrint.
@@ -54,8 +54,8 @@ Check network configuration and ensure the device is reachable.
 Contributing
 Contributions are welcome! If you have suggestions, bug reports, or feature requests, please open an issue or submit a pull request on GitHub.
 
-License
+License:
 This project is licensed under the AGPL3 commercial use License. See the LICENSE file for details.
 
-Acknowledgments
+Acknowledgments:
 This project was done with tremendous help from [itay zelikovich](https://github.com/zelikit) and [jneilliii](https://github.com/jneilliii).
